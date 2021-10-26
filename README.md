@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<h3 align="center">👋 Hi there! I'm Leandro Paixão</h3>
+
+---
+✨ I'm a frontend developer. I enjoy making the web accessible to everyone .
 
 <!--
 **LeandroPaixao89/LeandroPaixao89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
