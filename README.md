@@ -1,20 +1,21 @@
+# 👋 Hi there, I'm Leandro Paixão
 
-<h3 align="center">👋 Hi there! I'm Leandro Paixão</h3>
+I'm a Senior Frontend Developer who likes building useful and elegant software.
 
----
-✨ I'm a frontend developer. I enjoy making the web accessible to everyone .
+## 🛠️ Technologies & Tools
+
+![Languages](https://skillicons.dev/icons?i=js,ts,react,python,nodejs,html,css,tailwind,bootstrap,git,docker,linux,mysql)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroPaixao89&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPaixao89&layout=compact&hide=html)
 
 <!--
-**LeandroPaixao89/LeandroPaixao89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect with Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 -->
